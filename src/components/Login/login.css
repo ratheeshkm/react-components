@@ -1,0 +1,9 @@
+.container {
+  margin-top: 50px;
+  border: solid 1px blue;
+  border-radius: 8px;
+}
+
+.error {
+  color: red !important;
+}
